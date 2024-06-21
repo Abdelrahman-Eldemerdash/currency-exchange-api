@@ -10,4 +10,4 @@ for API documentation : http://localhost:5000/api-docs/
 
 
 
-to get exchange rate between two currencies http://localhost:5000/api/exchangeRate/fromCurrency/toCurrency
+to get exchange rate between two currencies using currency code http://localhost:5000/api/exchangeRate/fromCurrency/toCurrency
