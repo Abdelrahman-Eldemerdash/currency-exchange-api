@@ -51,7 +51,7 @@ To get the exchange rate between two currencies, use the following endpoint:
 - `GET /api/exchangeRate/{fromCurrency}/{toCurrency}`
 
 Replace `{fromCurrency}` and `{toCurrency}` with the respective currency codes you want to convert.
-here are the currency codes : https://www.iban.com/currency-codes
+
 
 ### Example Request
 
