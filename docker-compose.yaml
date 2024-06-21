@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  api:
+    build: ./api
+    container_name: exchange_currency_api_container
+    ports:
+      - '5000:5000'
